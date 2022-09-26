@@ -1,0 +1,50 @@
+[
+    {
+        "title":"why we use <br> element",
+        "answer_1":"to make text bold",
+        "answer_2":"to make break line",
+        "answer_3":"to make font size",
+        "answer_4":"to make aha link",
+        "right_answer":"to make break line"
+    },
+    {
+        "title":"why ahmed is better than hany",
+        "answer_1":"Because his mother is good with him",
+        "answer_2":"Because his mother is not good with him",
+        "answer_3":"father is good",
+        "answer_4":"Because his mother is a failure",
+        "right_answer":"Because his mother is good with him"
+    },
+    {
+        "title":"why we  use mobil",
+        "answer_1":"chat",
+        "answer_2":"aha keber",
+        "answer_3":"you you yoo",
+        "answer_4":"for codeing",
+        "right_answer":"for codeing"
+    },
+    {
+        "title":"why we use labtop",
+        "answer_1":"easy to use",
+        "answer_2":"easy to play",
+        "answer_3":"easy to learn",
+        "answer_4":" give it to my brother",
+        "right_answer":" give it to my brother"
+    },
+    {
+        "title":"why we use coding",
+        "answer_1":"to make text bold",
+        "answer_2":"to make break line",
+        "answer_3":"for love",
+        "answer_4":"fot website",
+        "right_answer":"fot website"
+    },
+    {
+        "title":"is Hany handsome?",
+        "answer_1":"yes",
+        "answer_2":"yes",
+        "answer_3":"yes",
+        "answer_4":"no",
+        "right_answer":"yes"
+    }
+]
